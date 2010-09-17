@@ -119,8 +119,9 @@ div#header_image {
 	padding-top: 3px;
 	padding-bottom: 3px;
 	padding-left: 12px;
+	padding-right: 12px;
 	background: #fff none no-repeat;
-	width: 450px;
+	float: left;
 }
 
 #navigation {
@@ -130,6 +131,7 @@ div#header_image {
 	top: 40%;
 	text-transform: uppercase;
 	float: left;
+	clear: both;
 }
 
 #navigation ul {
