@@ -244,6 +244,7 @@ h1,
 	float: left;
 	clear: both;
 	padding: 4px 12px;
+	margin-bottom: 0;
 }
 
 .text_bild_container {
