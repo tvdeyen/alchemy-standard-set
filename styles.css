@@ -251,6 +251,10 @@ h1,
 	clear: both;
 }
 
+.text_bild_container .image_caption {
+	width: 450px;
+}
+
 .image.left {
 	margin-right: 12px;
 	float: left;
