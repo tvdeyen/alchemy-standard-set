@@ -62,7 +62,7 @@ div#language_select {
 #language_select a {
 	text-decoration: none;
 	float: left;
-	text-transform: capitalize;
+	text-transform: uppercase;
 	padding-left: 4px;
 	padding-right: 4px;
 	padding-top: 12px;
